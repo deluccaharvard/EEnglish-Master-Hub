@@ -1,0 +1,11 @@
+{
+  "name": "English Master Hub",
+  "description": "Plataforma interativa completa com 22 modos de jogos de vocabulário e 2 ferramentas flutuantes: 1 Professor Virtual (Laboratório de Fala e Reconhecimento de Voz com IA) e 2 Dicionário (Léxico Polido & Diplomático C2).",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
